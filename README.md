@@ -25,20 +25,6 @@ Gosto de aprender novas tecnologias e transformar ideias em produtos reais! 🔥
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermepinheiroo&show_icons=true&title_color=A020F0&icon_color=A020F0&text_color=FFFFFF&bg_color=0A0014&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepinheiroo&layout=compact&langs_count=6&title_color=A020F0&text_color=FFFFFF&bg_color=0A0014"/>
-
-  <img src="https://streak-stats.demolab.com?user=guilhermepinheiroo&theme=violet-dark&hide_border=false" />
-</div>
-
----
-
-
 ## 📬 Contato
 
 <p>
@@ -53,8 +39,4 @@ Gosto de aprender novas tecnologias e transformar ideias em produtos reais! 🔥
 
 ---
 
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
 

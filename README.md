@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **3º semestre**, focado em criar soluções modernas que combinam:
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **4º semestre**, focado em criar soluções modernas que combinam:
 
 - Interfaces dinâmicas  
 - Alta performance  
